@@ -1,4 +1,4 @@
-# Hi! I'm Christiana!
+# Hi! I'm Christiana 🖖🏼
 ---
 ## About Me
 I am a full-stack web developer with an affinity for learning new skills and challenging myself.
