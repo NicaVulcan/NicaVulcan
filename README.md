@@ -21,7 +21,8 @@ These are the technologies I have worked with:
 ## Stats
 Some cool GitHub statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicavulcan&theme=rose_pine&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicavulcan&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Christiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicavulcan&count_private=true&show_icons=true&include_all_commits=true&theme=rose_pine&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
+[![Christiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicavulcan&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicavulcan&theme=vue-dark)](https://git.io/streak-stats)
