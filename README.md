@@ -10,7 +10,7 @@ I am also a mom, a wife, a pet-parent, an all-animal lover, a veteran, an artist
 - 🖖🏼 I am a huge Trekkie
 - 🕵🏻‍♀️ I once interned in a Crime Scene Investigation unit
 
-Check out my [website](https://nicavulcan.github.io/ccs-morales), or my [LinkedIn profile](https://www.linkedin.com/in/csullivanmorales/) if you would like to learn more about me!
+Check out my [website](https://www.ccs-morales.com), or my [LinkedIn profile](https://www.linkedin.com/in/csullivanmorales/) if you would like to learn more about me!
 
 
 ## Techs
